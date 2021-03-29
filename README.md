@@ -9,6 +9,10 @@ The architecture of the process is shown below:
 
 ![architecture](screenshots/Architecture.png)
 
+### Note:
+1. All codes are available inside "starter_files" folder.
+2. I had to complete the project in multiple attempts due to lab connectivity issues, VM access issues and slowness. Hence, user id for the classroom lab visible will be different in some of the screenshots.
+
 ## Key Steps
 
 We used Bank marketing dataset taken from UCI Machine Learning repository. The data is related to direct marketing campaigns of a Portuguese banking institution.
