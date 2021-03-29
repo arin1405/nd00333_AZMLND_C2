@@ -19,7 +19,7 @@ We used Bank marketing dataset taken from UCI Machine Learning repository. The d
 
 The dataset was already present in Azure ML Studio.
 
-![dataset](screenshots/1. Dataset.JPG)
+![dataset](screenshots/1.Dataset.JPG)
 
 We then created an AutoML run using ML Studio. We then created the experiment using Classification with "Explain best model" checked and wait for it to finish training. Below screenshot shows that the run was completed:
 
