@@ -16,5 +16,5 @@ We used Bank marketing dataset taken from UCI Machine Learning repository. The d
 
 The dataset was already present in Azure ML Studio.
 
-![dataset]("screenshots/1.Dataset.JPG")
+![dataset]("screenshots/1_Dataset.JPG")
 
